@@ -19,11 +19,11 @@ Understanding and predicting student performance is crucial for educational inst
    git clone https://github.com/TolaniSilas/student_score_prediction.git
    cd student_score_prediction
 
-Dataset
+## Dataset
 The project uses a dataset containing information about students' study hours and corresponding scores. The dataset is available in the data directory.
 
-Machine Learning Model
+## Machine Learning Model
 The machine learning model is implemented using scikit-learn and pandas libraries.
 
-Contributing
+## Contributing
 If you'd like to contribute to the project, feel free to submit a pull request. Bug reports, suggestions, and feedback are also welcome!
